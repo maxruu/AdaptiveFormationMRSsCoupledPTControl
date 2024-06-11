@@ -11,6 +11,7 @@
 ## Figures
 > 1. 您可以根据您的具体需求和论文的结构进行修改和扩展。该模板提供了一个基本的框架，可以帮助您在GitHub上以清晰和结构化的方式介绍您的论文。
 <div align=center><img src="Figures/single.png" width="30%"></div>
+<div align=center><img src="Figures/Single_Motion.gif" width="30%"></div>
 
 ## Videos 
 > 1. 您可以根据您的具体需求和论文的结构进行修改和扩展。该模板提供了一个基本的框架，可以帮助您在GitHub上以清晰和结构化的方式介绍您的论文。
