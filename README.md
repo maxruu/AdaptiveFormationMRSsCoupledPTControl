@@ -5,8 +5,7 @@
 
 ## Figures
 
-![single robot](Figures/single.png)
-< img src="Figures/single.png" alt="single robot" width="30%">
+<img src="Figures/single.png" alt="single robot" width="30%">
 
 ## Videos 
 
