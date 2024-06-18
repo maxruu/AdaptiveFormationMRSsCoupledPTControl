@@ -22,7 +22,7 @@
 
 https://github.com/maxruu/Formation_MRSs_Cascade_Systems_Coupled_PT_Control/assets/99390180/7f5569e6-0599-4ce0-b410-ee298de8bb79
 
-> 2. Evolution of completing task of formation  ${boldsymbol h}_{2}$ along path $g(t)$ in preset times.
+> 2. Evolution of completing task of formation  ${\boldsymbol h}_{2}$ along path $g(t)$ in preset times.
 
 https://github.com/maxruu/Formation_MRSs_Cascade_Systems_Coupled_PT_Control/assets/99390180/80004e1f-41bc-4959-86e2-aad2ef23c621
 
