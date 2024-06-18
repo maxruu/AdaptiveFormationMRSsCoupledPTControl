@@ -1,9 +1,9 @@
-# Formation_MRSs_Cascade_Systems_Coupled_PT_Control
+# Adaptive_Formation_MRSs_Coupled_PT_Control
 ## Basic Information
 
 
 >***Title :***
->> Formation Control of Multi-robot Systems Based on Cascade Systems Designed with Coupled Preset Time Control Units
+>> Adaptive Formation MRSs Coupled PT Control
 >
 >***Authors :***
 >> Xinru Ma, Hengyu Li
