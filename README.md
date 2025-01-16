@@ -14,7 +14,7 @@
 <div align=center><img src="Figures/single.png" width="30%"></div>
 <div align=center><img src="Figures/Single_Motion.gif" width="30%"></div>
 -->
-<div align=center><img src="Figures/Single_Motion.gif" width="30%"></div>
+<div align=left><img src="Figures/Motion_Single.gif" width="50%"></div>
 
 ## Videos 
 <!-- 
@@ -23,12 +23,12 @@
 
 > 1. Evolution of completing time-varying formation ${\boldsymbol h}_{1}(t)$ in preset times.
 
-<div align=center><img src="Videos/15-2.gif"></div>
+<div align=left><img src="Videos/15-2.gif" width="50%"></div>
 
 <!-- https://github.com/maxruu/Formation_MRSs_Cascade_Systems_Coupled_PT_Control/assets/99390180/7f5569e6-0599-4ce0-b410-ee298de8bb79 -->
 
 > 2. Evolution of completing task of formation  ${\boldsymbol h}_{2}$ along path $g(t)$ in preset times.
 
-<div align=center><img src="Videos/15-6.gif"></div>
+<div align=left><img src="Videos/15-6.gif" width="50%"></div>
 <!-- https://github.com/maxruu/Formation_MRSs_Cascade_Systems_Coupled_PT_Control/assets/99390180/80004e1f-41bc-4959-86e2-aad2ef23c621 -->
 
